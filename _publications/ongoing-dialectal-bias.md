@@ -1,8 +1,8 @@
 ---
-title: 'Dialectal Bias in Large-Scale Text for Pretraining'
+title: 'Dedup Dialectal Bias in Web-Scale Text Corpora for Pretraining'
 collection: publications
 category: ongoing
-permalink: /publication/dialectal-bias-large-scale-text-for-pretraining/
+permalink: /publication/dedup-dialectal-bias-in-web-scale-text-corpora-for-pretraining/
 excerpt: Ongoing — planned for Q3-2027
 share: false
 comments: false
